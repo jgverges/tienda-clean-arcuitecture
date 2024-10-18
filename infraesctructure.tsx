@@ -1,3 +1,5 @@
+// INFRAESTRUCTURE
+
 // src/infrastructure/api/api.ts
 // │   ├── infrastructure/
 // │   │   ├── api/

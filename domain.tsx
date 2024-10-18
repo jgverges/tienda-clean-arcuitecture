@@ -114,8 +114,10 @@ export class User {
   ) {}
 }
 
-// INTERFACES
-
+//
+//
+// ___INTERFACES___
+//
 // src/domain/repository-interfaces/ProductRepository.ts
 import { Product } from "../entities/Product";
 
